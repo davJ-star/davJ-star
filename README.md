@@ -2,6 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20SeongWook's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdavJ-star&count_bg=%236A8FB7&title_bg=%23304A5E&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/davJ-star)
+
+[![Seong's GitHub stats](https://github-readme-stats.vercel.app/api?username=davJ-star&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/davJ-star/github-readme-stats)
+
 <!--
 **davJ-star/davJ-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
