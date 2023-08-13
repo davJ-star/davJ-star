@@ -29,6 +29,9 @@
   </a>
 </p>
 <h3 align="center">💡 My Git Stats 💡</h3>
+
+
+
 <p align="center">
   <a href="https://github.com/davJ-star">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davJ-star&include_all_commits=true&theme=nord&hide_border=true&count_private=true" />
@@ -41,12 +44,19 @@
 <p align="center">
   <a href="https://velog.io/@dav_id"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@dav_id"/></a>&nbsp
     <a href="https://sw-junior2senior-developer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
-  <br>  
-  <a href="https://original-my-life-story.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
-  <br>
   <a href="mailto:jshsy0130@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jshsy0130@gmail.com"/></a>&nbsp
 </p>
-
+<p align="center">
+  <h4>🔭 Hard Skill 🔭</h4>
+  
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=sw-junior2senior-developer&theme=default)](https://sw-junior2senior-developer.tistory.com/)
+  
+  
+  <h4>💬 Soft Skill 💬</h4>  
+  
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=original-my-life-story&theme=default)](https://original-my-life-story.tistory.com/)
+  
+</p>
 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdavJ-star&count_bg=%236A8FB7&title_bg=%23304A5E&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/davJ-star)
 
