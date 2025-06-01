@@ -1,9 +1,11 @@
 # 🎯 AI/Data Developer with Full-Stack 
 <a name="top"></a>
+> 💡 **"기술로 세상을 더 포용적이고 창의적으로 만들어가는 개발자"**  
+> AI를 통해 모든 사람이 접근 가능한 솔루션을 만들어갑니다.
 
 
 ### 👇 맨 아래에서 조금 위로 올라가면 바로 pinned된 repository가 있습니다. 📌
-> **한이음 과기부 동상** | **SK C&C 대표이사상** | **KIST AI 연구 인턴** | **네모 감성 허밍블럭스 CES 2025 수상** | **창업경진대회 특별상 수상** | **카카오뱅크우수장학생 수상**
+> **한이음 과기부 동상** | **SK C&C 대표이사상** | **KIST AI 연구 인턴** | **네모 감성 허밍블럭스 CES 2025 수상** | **csos 학부 연구생(자율주행)** | **창업경진대회 특별상 수상** | **카카오뱅크우수장학생 수상**
 
 
 <p align="center">
@@ -130,6 +132,7 @@
   <a href="https://velog.io/@dav_id"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
   <a href="https://sw-junior2senior-developer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
   <a href="mailto:jshsy0130@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
+  <a>노션 링크(예정)</a>
 </p>
 
 
