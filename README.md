@@ -8,14 +8,7 @@
 > **한이음 과기부 동상** | **SK C&C 대표이사상** | **KIST AI 연구 인턴** | **네모 감성 허밍블럭스 CES 2025 수상** | **csos 학부 연구생(자율주행)** | **창업경진대회 특별상 수상** | **카카오뱅크우수장학생 수상**
 
 
-<p align="center">
-  <a href="https://github.com/davJ-star">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davJ-star&show_icons=true&theme=vue-dark&count_private=true" />
-  </a>
-  <a href="https://github.com/davJ-star">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davJ-star&layout=compact&theme=vue-dark" />
-  </a>
-</p>
+
 
 ## 🚀 핵심 역량
 
