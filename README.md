@@ -77,7 +77,7 @@
   <a href="https://velog.io/@dav_id"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
   <a href="https://sw-junior2senior-developer.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
   <a href="mailto:jshsy0130@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-  <a>노션 링크(예정)</a>
+  <a>노션 링크</a>
 </p>
 
 
